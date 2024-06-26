@@ -42,37 +42,37 @@
             "id" : 2,
             "title" : "LapTop",
             "value" : "laptops",
-            "image" : "./assets/img/laptop.png"
+            "image" : "../img/laptop.png"
         },
         {
             "id" : 1,
             "title" : "Smart Phone",
             "value" : "smartphones",
-            "image" : "./assets/img/mobile-phone.png"
+            "image" : "../img/mobile-phone.png"
         },
         {
             "id" : 3,
             "title" : "Fragrances",
             "value" : "fragrances",
-            "image" : "./assets/img/perfume.png"
+            "image" : "../img/perfume.png"
         },
         {
             "id" : 4,
             "title" : "Skincare",
             "value" : "skincare",
-            "image" : "./assets/img/face-cream.png"
+            "image" : "../img/face-cream.png"
         },
         {
             "id" : 5,
             "title" : "Groceries",
             "value" : "groceries",
-            "image" : "./assets/img/food.png"
+            "image" : "../img/food.png"
         },
         {
             "id" : 6,
             "title" : "Home Decoration",
             "value" : "home-decoration",
-            "image" : "./assets/img/shelf.png"
+            "image" : "../img/shelf.png"
         }
     ]
 }
